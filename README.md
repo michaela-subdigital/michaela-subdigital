@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @michaela-subdigital
+- 👀 I’m interested in computational/generative design
+- I’m working in Monoceros PRO for Rhinoceros 3D / Grasshopper 3D
+- 📫 You can reach me via michaela@sub.digital
